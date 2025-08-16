@@ -20,6 +20,7 @@ Este projeto é uma aplicação em **Python + Flask** que utiliza um modelo de *
 ## 📂 Estrutura do Projeto
 
 projeto-Si-main/
+
 │── app.py # Aplicação Flask (backend principal)
 
 │── appteste.py # Script de teste do modelo
