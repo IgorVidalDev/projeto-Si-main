@@ -21,12 +21,19 @@ Este projeto é uma aplicação em **Python + Flask** que utiliza um modelo de *
 
 projeto-Si-main/
 │── app.py # Aplicação Flask (backend principal)
+
 │── appteste.py # Script de teste do modelo
+
 │── treinar_modelo.py # Treinamento do modelo MNIST
+
 │── salvar_imagens_mnist.py # Exporta imagens do dataset
+
 │── modelo_mnist.h5 # Modelo treinado salvo
+
 │── requirements.txt # Dependências do projeto
+
 │── static/ # Imagens processadas e arquivos estáticos
+
 │── templates/ # Páginas HTML (index.html)
 
 markdown
