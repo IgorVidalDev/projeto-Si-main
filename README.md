@@ -36,9 +36,6 @@ projeto-Si-main/
 
 │── templates/ # Páginas HTML (index.html)
 
-markdown
-Copiar
-Editar
 
 ## 🔧 Requisitos
 
