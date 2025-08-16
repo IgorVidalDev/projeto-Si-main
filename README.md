@@ -56,18 +56,11 @@ pip install -r requirements.txt
 Treine o modelo (opcional, já existe um salvo em modelo_mnist.h5):
 
 bash
-Copiar
-Editar
 python treinar_modelo.py
+
 Inicie a aplicação Flask:
-
 bash
-Copiar
-Editar
 python app.py
-Acesse no navegador:
 
-cpp
-Copiar
-Editar
+Acesse no navegador:
 http://127.0.0.1:5000
